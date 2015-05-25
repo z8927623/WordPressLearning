@@ -1,0 +1,1 @@
+PODS_AUTOMATTIC_TRACKS_IOS_OTHER_LDFLAGS = -framework "CoreTelephony"
